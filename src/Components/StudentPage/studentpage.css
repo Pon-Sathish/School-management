@@ -1,0 +1,89 @@
+.teacher-page-stu{
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 20% 75% 5%;
+}
+.teacher-nav-page-stu{
+    border: 1px solid black;
+    background-color: rgb(1, 14, 68);
+}
+.nav-buttons-stu{
+    margin-top: 100px;
+}
+.nav-buttons-stu div{
+    /* padding: 20px; */
+    /* border: 1px solid black; */
+    text-align: center;
+}
+.nav-buttons-stu div button{
+    background-color:rgb(1, 14, 68);
+    border: none;
+    color: white;
+    font-weight: bold;
+    /* border: 1px solid white; */
+    padding: 30px;
+    width: 100%;
+
+}
+.nav-buttons-stu div:hover{
+    background-color: rgb(1, 10, 48);
+}
+.nav-buttons-stu div:hover button{
+    background-color: rgb(1, 10, 48);
+}
+.header-stu{
+    
+    width: 400px;
+    height: 500px;
+    background-color: #fff;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    box-shadow: 0px 0px 40px #c9c8c8;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.header-icon-stu{
+    width: 120px;
+    height: 120px;
+   background-color: rgb(1, 14, 68);
+    text-align: center;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    margin-top:-50px;   
+   
+}
+.header-icon-stu i{
+    font-size: 60px;
+    margin-left: 27px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.ic-stu{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    
+}
+.teacher-details-stu{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.teacher-edit-stu{
+    background-color: rgb(1, 14, 68);
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 50px 10px 50px;
+
+}
+.bu-stu{
+    text-align: center;
+}
+.teacher-edit-stu:hover{
+    background-color: rgb(1, 10, 48);
+}

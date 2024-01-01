@@ -1,0 +1,610 @@
+{
+  "posts": [
+    {
+      "userName": "sathish",
+      "dob": "2003-09-09",
+      "id": 1
+    },
+    {
+      "userName": "selva",
+      "dob": "2003-10-19",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "name": "sathish",
+      "age": "20",
+      "gender": "Male",
+      "dob": "2003-09-09",
+      "mobile": "6382933135",
+      "email": "sathish@gmail.com",
+      "qualification": "B.Com",
+      "address": "tenkasi",
+      "class": "9th",
+      "id": 1
+    },
+    {
+      "name": "selva",
+      "age": "22",
+      "gender": "Male",
+      "dob": "2001-12-12",
+      "mobile": "1234567890",
+      "email": "selva@gmail.com",
+      "qualification": "B.Com",
+      "address": "tenkasi",
+      "class": "10th",
+      "id": 2
+    },
+    {
+      "name": "karan",
+      "age": "23",
+      "gender": "Male",
+      "dob": "2000-10-08",
+      "mobile": "9952263761",
+      "email": "karan@gmail.com",
+      "qualification": "B.sc Maths",
+      "address": "tenkasi",
+      "class": "11th",
+      "id": 3
+    },
+    {
+      "name": "Rani",
+      "age": "22",
+      "gender": "Female",
+      "dob": "2003-01-01",
+      "mobile": "8877623490",
+      "email": "rani143@gmail.com",
+      "qualification": "BA.English",
+      "address": "Chennai",
+      "class": "12th",
+      "id": 4
+    },
+    {
+      "name": "Thina",
+      "age": "26",
+      "gender": "Male",
+      "dob": "1997-04-06",
+      "mobile": "7654329087",
+      "email": "thinakaran@gmail.com",
+      "qualification": "BCA",
+      "address": "tenkasi",
+      "class": "8th",
+      "id": 5
+    },
+    {
+      "name": "Pon Selvan",
+      "age": "25",
+      "gender": "Male",
+      "dob": "1999-12-09",
+      "mobile": "7871060695",
+      "email": "selva@123gmail.com",
+      "qualification": "M.Com",
+      "address": "tenkasi",
+      "class": "7th",
+      "id": 6
+    },
+    {
+      "name": "Ragu",
+      "age": "25",
+      "gender": "Male",
+      "dob": "1997-09-15",
+      "mobile": "0987654321",
+      "email": "ugar@gmail.com",
+      "qualification": "M.Com",
+      "address": "tenkasi",
+      "class": "3rd",
+      "id": 10
+    }
+  ],
+  "profile": [
+    {
+      "name": "siva",
+      "dob": "3232-02-23",
+      "gender": "Male",
+      "age": "22",
+      "fname": "JABM",
+      "mname": "DDG",
+      "mobile": "6382933135",
+      "class": "9th",
+      "id": 1,
+      "email": "sathishponsathish1@gmail.com"
+    },
+    {
+      "name": "suthan",
+      "dob": "3232-02-23",
+      "gender": "Male",
+      "age": "22",
+      "fname": "JABM",
+      "mname": "DDG",
+      "mobile": "4612112124",
+      "class": "9th",
+      "id": 2
+    },
+    {
+      "name": "joy",
+      "dob": "3232-02-23",
+      "gender": "Male",
+      "age": "22",
+      "fname": "JABM",
+      "mname": "DDG",
+      "mobile": "4612112124",
+      "class": "9th",
+      "id": 3
+    },
+    {
+      "name": "kumar",
+      "dob": "2003-09-09",
+      "gender": "Male",
+      "age": "14",
+      "fname": "saro",
+      "mname": "paru",
+      "mobile": "0987654321",
+      "class": "9th",
+      "id": 4
+    },
+    {
+      "name": "mani",
+      "dob": "2003-09-09",
+      "gender": "Male",
+      "age": "12",
+      "fname": "saro",
+      "mname": "paru",
+      "mobile": "0987654321",
+      "class": "9th",
+      "id": 5
+    },
+    {
+      "name": "Rahul",
+      "dob": "2003-01-01",
+      "gender": "Male",
+      "age": "13",
+      "fname": "saro",
+      "mname": "paru",
+      "mobile": "9876543191",
+      "class": "10th",
+      "id": 6
+    },
+    {
+      "name": "persiya",
+      "dob": "2001-09-08",
+      "gender": "Female",
+      "age": "14",
+      "fname": "Gopi",
+      "mname": "Malar",
+      "mobile": "1234567890",
+      "class": "10th",
+      "id": 7
+    },
+    {
+      "name": "Thiyagu",
+      "dob": "2005-09-09",
+      "gender": "Male",
+      "age": "14",
+      "fname": "Thurai Raj",
+      "mname": "Saroja",
+      "mobile": "2468909876",
+      "class": "10th",
+      "id": 8
+    },
+    {
+      "name": "Prem",
+      "dob": "2008-07-06",
+      "gender": "Male",
+      "age": "13",
+      "fname": "Kamal",
+      "mname": "Rani",
+      "mobile": "8283582689",
+      "class": "10th",
+      "id": 9
+    },
+    {
+      "name": "Madhu",
+      "dob": "2003-09-09",
+      "gender": "Female",
+      "age": "20",
+      "fname": "Sathish",
+      "mname": "Malar",
+      "mobile": "6382933135",
+      "class": "10th",
+      "id": 10
+    },
+    {
+      "name": "Lavanya",
+      "dob": "2003-09-09",
+      "gender": "Female",
+      "age": "12",
+      "fname": "Kumar",
+      "mname": "Kumari",
+      "mobile": "0987690876",
+      "class": "11th",
+      "id": 11
+    },
+    {
+      "name": "Mari",
+      "dob": "2003-09-09",
+      "gender": "Male",
+      "age": "12",
+      "fname": "Sathish",
+      "mname": "Banu",
+      "mobile": "0987654321",
+      "class": "11th",
+      "id": 12
+    },
+    {
+      "name": "Arasu",
+      "dob": "2003-09-09",
+      "gender": "Male",
+      "age": "12",
+      "fname": "Thurai Raj",
+      "mname": "Saroja",
+      "mobile": "6382933135",
+      "class": "11th",
+      "id": 13
+    },
+    {
+      "name": "Deepa",
+      "dob": "2003-09-09",
+      "gender": "Female",
+      "age": "12",
+      "fname": "Vetri",
+      "mname": "Divya",
+      "mobile": "0987654321",
+      "class": "11th",
+      "id": 14
+    },
+    {
+      "name": "Divya",
+      "dob": "2003-09-09",
+      "gender": "Female",
+      "age": "12",
+      "fname": "Sathish",
+      "mname": "Banu",
+      "mobile": "0987654321",
+      "class": "11th",
+      "id": 15
+    },
+    {
+      "name": "Deepika",
+      "dob": "2003-09-09",
+      "gender": "Female",
+      "age": "12",
+      "fname": "pandi",
+      "mname": "Banu",
+      "mobile": "0987654321",
+      "class": "12th",
+      "id": 16
+    },
+    {
+      "name": "selva kumar",
+      "dob": "2007-06-05",
+      "gender": "Male",
+      "age": "15",
+      "fname": "vaithilingam",
+      "mname": "rani",
+      "mobile": "0987654321",
+      "class": "12th",
+      "id": 17
+    },
+    {
+      "name": "Raj Kumar",
+      "dob": "2008-03-13",
+      "gender": "Male",
+      "age": "23",
+      "fname": "hiorvjdjkb",
+      "mname": "ndobbiom m",
+      "mobile": "9133973091",
+      "class": "12th",
+      "id": 18
+    },
+    {
+      "name": "Raja",
+      "dob": "2008-03-13",
+      "gender": "Male",
+      "age": "23",
+      "fname": "Sivakumar",
+      "mname": "Sri",
+      "mobile": "9133973091",
+      "class": "12th",
+      "id": 19
+    },
+    {
+      "name": "Mohan",
+      "dob": "2008-03-13",
+      "gender": "Male",
+      "age": "23",
+      "fname": "Shiva",
+      "mname": "Uma",
+      "mobile": "9133973091",
+      "class": "12th",
+      "id": 20
+    },
+    {
+      "name": "Kathir",
+      "dob": "2006-05-04",
+      "gender": "Male",
+      "age": "12",
+      "fname": "Sunil",
+      "mname": "Suba",
+      "mobile": "9087678902",
+      "class": "8th",
+      "id": 21
+    }
+  ],
+  "attendance": [
+    {
+      "studentId": 1,
+      "status": "Absent",
+      "name": "siva",
+      "date": "8/12/2023",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "status": "Present",
+      "name": "suthan",
+      "date": "8/12/2023",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "status": "Absent",
+      "name": "joy",
+      "date": "8/12/2023",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "status": "Present",
+      "name": "kumar",
+      "date": "8/12/2023",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "status": "Present",
+      "name": "mani",
+      "date": "8/12/2023",
+      "id": 5
+    },
+    {
+      "studentId": 1,
+      "status": "Present",
+      "name": "siva",
+      "date": "7/12/2023",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "status": "Absent",
+      "name": "suthan",
+      "date": "7/12/2023",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "status": "Present",
+      "name": "joy",
+      "date": "7/12/2023",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "status": "Absent",
+      "name": "kumar",
+      "date": "7/12/2023",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "status": "Absent",
+      "name": "mani",
+      "date": "7/12/2023",
+      "id": 5
+    },
+    {
+      "studentId": 1,
+      "status": "Absent",
+      "name": "siva",
+      "date": "6/12/2023",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "status": "Present",
+      "name": "suthan",
+      "date": "6/12/2023",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "status": "Absent",
+      "name": "joy",
+      "date": "6/12/2023",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "status": "Present",
+      "name": "kumar",
+      "date": "6/12/2023",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "status": "Present",
+      "name": "mani",
+      "date": "6/12/2023",
+      "id": 5
+    },
+    {
+      "studentId": 1,
+      "status": "Absent",
+      "name": "siva",
+      "date": "5/12/2023",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "status": "Present",
+      "name": "suthan",
+      "date": "5/12/2023",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "status": "Absent",
+      "name": "joy",
+      "date": "5/12/2023",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "status": "Present",
+      "name": "kumar",
+      "date": "5/12/2023",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "status": "Present",
+      "name": "mani",
+      "date": "5/12/2023",
+      "id": 5
+    },
+    {
+      "studentId": 1,
+      "status": "Present",
+      "name": "siva",
+      "date": "4/12/2023",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "status": "Absent",
+      "name": "suthan",
+      "date": "4/12/2023",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "status": "Absent",
+      "name": "joy",
+      "date": "4/12/2023",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "status": "Present",
+      "name": "kumar",
+      "date": "4/12/2023",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "status": "Present",
+      "name": "mani",
+      "date": "4/12/2023",
+      "id": 5
+    },
+    {
+      "studentId": 1,
+      "status": "Present",
+      "name": "siva",
+      "date": "3/12/2023",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "status": "Present",
+      "name": "suthan",
+      "date": "3/12/2023",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "status": "Absent",
+      "name": "joy",
+      "date": "3/12/2023",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "status": "Absent",
+      "name": "kumar",
+      "date": "3/12/2023",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "status": "Present",
+      "name": "mani",
+      "date": "3/12/2023",
+      "id": 5
+    }
+  ],
+  "TimeTable": [
+    {
+      "name": "sathish",
+      "Periods": [
+        {
+          "today": "Sunday"
+        },
+        {
+          "one": "8th-English",
+          "two": "4th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-English",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-English",
+          "two": "5th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "7th-English",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "6th-English",
+          "two": "10th-English",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-English",
+          "two": "9th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-English",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-English"
+        },
+        {
+          "today": "Sunday"
+        }
+      ]
+    }
+  ],
+  "ApplyLeave": []
+}

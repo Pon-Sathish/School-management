@@ -1,0 +1,72 @@
+#div{
+    height: 150vh;
+    width: 100%;
+    background-color: #a5cffa;
+    /* background-color: #ffffff; */
+    padding-top: 25px;
+}
+#addteacher #add {
+    text-align: center;
+    width: 95%;
+    margin-left: 8px;
+    border-radius: 0 0 10px 10px;
+    height: 40px;
+    color: white;
+    background-color: #2a84dd;
+    margin-top: 0;
+}
+
+#addteacher {
+    border: 1px solid rgb(0, 0, 0);
+    width: 30%;
+    border-radius: 5px;
+    height: 110vh;
+    /* margin-top: 0px; */
+    margin-left: 35%;
+    background-color: #222;
+    box-shadow: 10px 10px 10px #333;
+}
+#addteacher input{
+    width: 83%;
+    margin-left: 20px;
+    /* margin-top: 5px; */
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: none;
+    border-bottom: 2px solid #2a84dd;
+    outline: 0;
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+}
+#addteacher select{
+    width: 83%;
+    margin-left: 20px;
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: none;
+    border-bottom: 2px solid #2a84dd;
+    outline: 0;
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+}
+#addteacher button{
+    padding: 10px 145px 10px 145px;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+    border-radius: 5px;
+    background-color: #2a84dd;
+    border: none;
+}
+button:hover #addteacher{
+    height: 140vh;
+}
+#addteacher p{
+    color: red;
+    margin-left: 25px;
+}

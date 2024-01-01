@@ -1,0 +1,21 @@
+.present{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(0, 99, 13);
+    border: 1px solid black;
+}
+.apsent{
+    width: 250px;
+    height: 40px;
+    background-color: rgb(99, 0, 0);
+    border: 1px solid rgb(197, 0, 0);
+}
+.Check-Attendance{
+    border: none;
+    margin-left:45% ;
+    padding: 20px;
+    background-color: rgb(10, 0, 99);
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}
